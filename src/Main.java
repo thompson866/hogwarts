@@ -35,7 +35,7 @@ public class Main {
 
 
         harry.compareGriffindor(germiona);
-        germiona.compareHogwarts(chou);
+        germiona.compareHogwarts(harry);
     }
 
     private static GryffindorStudent generateGryffindorStudent(String name) {
